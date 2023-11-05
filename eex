@@ -29,7 +29,7 @@
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User Settings: 1 = yes, 0 = no															*/
 	
-	--background:					url(https://cdn.discordapp.com/attachments/980672881954521098/1170595151824027688/ba0cab27e7f6b4f11d6e8909e9d62785.png?ex=65599cb0&is=654727b0&hm=1297c34a188508f934b16c39f7fb80151b97e8d7c4b862b4f0c7e26181c19709&);	/* general background image				*/
+	--background:					url(https://cdn.discordapp.com/attachments/980672881954521098/1170595527394607184/727899.png?ex=65599d0a&is=6547280a&hm=2d5e17124a105f59a1d0602a0e74d194cafa4d392678db9b3b165d5c38671d49&);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
 	--backgroundblur:				unset;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
